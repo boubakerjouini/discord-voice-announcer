@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pnpm *)",
+      "Bash(tsx *)",
+      "Bash(node *)",
+      "Bash(git *)"
+    ]
+  }
+}
